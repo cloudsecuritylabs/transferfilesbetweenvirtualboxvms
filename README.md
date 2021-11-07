@@ -12,3 +12,7 @@ py -m http.server 8000
 
 # with python2:
 python -m SimpleHTTPServer 8000
+
+# Access files
+if your files on the host VM, keet the network setting on Bridge mode.
+brose to IP:8000 and download!
